@@ -1,6 +1,9 @@
 # Weather_application
 
-![weather-app](https://github.com/himanshu60/Weather_application/assets/65457075/826ff200-b806-4049-9a33-f120617f8478)
+
+![weather-app](https://github.com/himanshu60/Weather_application/assets/65457075/18c43b37-36fd-4e04-a407-2e1c376e6fb8)
 
 # Location Not Found!
-![weather-not-found](https://github.com/himanshu60/Weather_application/assets/65457075/996c190e-a09f-4345-9eaa-55dd7eeb51a9)
+
+![weather-not-found](https://github.com/himanshu60/Weather_application/assets/65457075/748c364c-d443-45fd-af65-c19dce20941c)
+
